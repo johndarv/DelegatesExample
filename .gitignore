@@ -4,3 +4,7 @@ obj
 packages*/
 *.exe
 !NuGet.exe
+/src/.vs/DelegatesExample/v15/Server/sqlite3/storage.ide-wal
+/src/.vs/DelegatesExample/v15/Server/sqlite3/storage.ide-shm
+/src/.vs/DelegatesExample/v15/Server/sqlite3/storage.ide
+/src/.vs/DelegatesExample/v15/Server/sqlite3/db.lock
